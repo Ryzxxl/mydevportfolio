@@ -40,7 +40,7 @@ $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
 $background: ##120E43;
-$background-alt: #f2f2f5;
+$background-alt: #120E43;
 
 // Define border colors
 $border: #dcd9d9;
@@ -460,7 +460,7 @@ footer {
     border-bottom: 1px solid $border;
 
     h2 {
-        color: $heading;
+        color: #120E43;
     }
 }
 
